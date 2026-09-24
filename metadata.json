@@ -1,0 +1,6 @@
+{
+  "name": "SewLanka - Sri Lanka Garment & Sewing Classifieds",
+  "description": "ශ්‍රී ලංකාවේ ප්‍රමුඛතම ඇඟලුම්, මහන මැෂින්, සබ් ඕඩර්ස් සහ කාර්මික ශිල්පීන්ගේ දැන්වීම් වෙබ් අඩවිය.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
